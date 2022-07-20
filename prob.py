@@ -30,4 +30,4 @@ def even_(val):
     for i in val:
         if i%2==0:
             print(i)
-even_([1,2,3,4,77,44,22,55,33,226])  
+even_([2,4,5,7,8,9,3,24])  
